@@ -1,30 +1,26 @@
-## Hi there 👋 Soy Nicolas 
+## Hi there 👋
+Hola Mi nombre es **Nikolas**, Soy de **Concepcion**,**Chile**, y soy un apasionado por la 
+tecnologia y el **Desarrollo Web**
 
-Hola mi nombre es **Nicolas**, vivo en **Chile** en la ciudad de **Concepcion** y soy apasionado por el **Desarrollador Web**
+## Sobre Mi
+Me titule como **Ingeniero Informatico** para aprender todo sobre la tecnologia y he realizando un curso de **Desarrollo Web Front End** para poder dominar mis habilidades de 
+programacion y crear aplicaciones web atractivas y funcionales.
 
-## Me dedico a
-Estoy realizando un curso de **Desarrollo Web Front End** para poder dominar mis habilidades de programacion y crear aplicaciones web atractivas y funcionales.
+## Lenguajes de Programacion y Tecnologias
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="45px">
+<img src="https://img.icons8.com/color/512/javascript.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" width="45px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="55px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="45px">
 
-## Experiencia
-Tengo experiencia trabajando con lenjuages **HTML5**, **CSS3**, **JavaScript**, **VueJS** y con tecnologias como **Git**
+## Contactame 
+<a href="ncorantehuenchuman@gmail.com" style="display: inline-block; margin: 0; padding: 0">
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="45px">
+</a>
+<a href="https://www.linkedin.com/in/nicolas-corante/" style="display: inline-block; background-color: #0000; border-radius: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width= 35px>
+</a>
 
-## Contactame
-
-Email: [ncorantehuenchuman@gmail.com](ncorantehuenchuman@gmail.com)  
-Linkedin: [https://www.linkedin.com/in/nicolas-corante/](https://www.linkedin.com/in/nicolas-corante/)
-
-
-<!--
-**NikoAlexis1/NikoAlexis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadisticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoAlexis1&layout=compact)](https://github.com/NikoAlexis1/github-readme-stats)
