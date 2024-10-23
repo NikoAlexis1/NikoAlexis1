@@ -15,7 +15,7 @@ programacion y crear aplicaciones web atractivas y funcionales.
 <a href="https://sass-lang.com/documentation/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="45px"></a>
 
 ## Contactame 
-<a href="ncorantehuenchuman@gmail.com" style="display: inline-block; margin: 0; padding: 0">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ncorantehuenchuman@gmail.com" style="display: inline-block; margin: 0; padding: 0">
 <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="45px">
 </a>
 <a href="https://www.linkedin.com/in/nicolas-corante/" style="display: inline-block; background-color: #0000; border-radius: 5px;">
