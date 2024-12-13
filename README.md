@@ -25,5 +25,3 @@ programacion y crear aplicaciones web atractivas y funcionales.
 
 ## Estadisticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoAlexis1&layout=compact&theme=transparent)](https://github.com/NikoAlexis1/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoAlexis1&show_icons=true&theme=transparent)
