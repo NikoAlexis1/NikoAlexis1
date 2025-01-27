@@ -3,7 +3,7 @@ Hola mi nombre es **Nikolas** y soy de **Concepcion**, **Chile**
 
 ## Sobre Mi
 Soy **Ingeniero Informatico** especializado en el area de **Desarrollo Web Front End**, un apasionado por la tecnologia y el diseño de paginas web,
-mi objetivo es continuar perfeccionando mis habilidades y mantenerme en constante aprendizaje para seguir contribuyendo al desarrollo de aplicaciones web innovadoras y de alta calidad."
+mi objetivo es continuar perfeccionando mis habilidades y mantenerme en constante aprendizaje para seguir contribuyendo al desarrollo de aplicaciones web innovadoras y de alta calidad.
 
 ## Lenguajes y Tecnologias
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40px"></a>
